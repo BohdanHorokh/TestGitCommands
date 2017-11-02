@@ -1,5 +1,5 @@
 public class Java{
-	public void doSmthInTestBranch() {
+	public void doSmth() {
 		
 	}
 }
