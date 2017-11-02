@@ -1,1 +1,5 @@
-public class Java{}
+public class Java{
+	public void doSmthInTestBranch() {
+		
+	}
+}
