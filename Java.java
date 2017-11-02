@@ -1,5 +1,5 @@
 public class Java{
-	public void doSmthWithMasterBranch() {
+	public void doSmth() {
 		
 	}
 }
